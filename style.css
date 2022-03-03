@@ -1,0 +1,19 @@
+.section-1 {
+    background-color: #1f2937;
+}
+
+.headings {
+    display: flex;
+}
+
+.header-logo {
+    font: 24px;
+    color: #f9faf8;
+}
+
+.link {
+    font: 18px;
+    color: #e5e7eb;
+    border: solid 2px red;
+    flex: 1;
+}
